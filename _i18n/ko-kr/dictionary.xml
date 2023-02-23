@@ -92,9 +92,9 @@
   <block id="24e314acaed1befaf882f567d75209aa" category="paragraph"><block ref="5cd9f5c03b3c2d6846f64a7c04036d45" category="inline-link-rx"></block>.</block>
   <block id="52b8542f1c38dc282f15733db9ef2648" category="inline-link">E2800 모델에 대해 자세히 알아보십시오</block>
   <block id="d2d722049178be8cd1890b932c825ed5" category="paragraph"><block ref="3e0982541f18ddacaca57ec40835ab89" category="inline-link-rx"></block>.</block>
-  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">모두</block>
   <block id="2a9dbfa4b74c53d7304fc8b79a1874d3" category="sidebar">해결하세요</block>
   <block id="e4136d596bf67f3afb7cfd2326f4b522" category="sidebar">E-Series에 대해 알아보십시오</block>
-  <block id="ae3764f1afaeea3c3503d944dce8f0b9" category="sidebar">NetApp 기반 BeeGFS</block>
-  <block id="cd03a6967293f50ada66e4749041088c" category="sidebar">BeeGFS 병렬 파일 시스템과 NetApp EF600 스토리지 시스템이 결합된 고가용성 AI 및 HPC 스토리지 인프라에 BeeGFS를 사용합니다.</block>
+  <block id="3a1266b54b8b88dbb50662ab4166c05f" category="sidebar">모든 문서</block>
+  <block id="28e8b3e83af233fe7085ba954fc6fd36" category="sidebar">E-Series 스토리지를 지원하는 NetApp 기반 BeeGFS</block>
+  <block id="c6ed86424e776eb55d39d911ea6a9183" category="sidebar">NetApp 기반의 BeeGFS를 사용하여 BeeGFS 병렬 파일 시스템과 NetApp EF600 스토리지 시스템이 결합된 고가용성 인프라를 구축 및 구축할 수 있습니다.</block>
 </blocks>

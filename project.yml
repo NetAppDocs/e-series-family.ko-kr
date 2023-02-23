@@ -1,6 +1,7 @@
 ---
 settings:
   name: E-Series Family
+  search: e-series,e-series-santricity,e-series-cli
   internal:
     pdf_enabled: false
   prod:
@@ -12,9 +13,8 @@ sidebar:
   - title: E-Series 제품군 설명서
     url: "/index.html"
 product-family:
-  search: clouddocs-e-series_main-prod,clouddocs-e-series-santricity_main-prod,clouddocs-e-series-cli_main-prod
   sidebarlinks:
-  - title: 모두
+  - title: 모든 문서
     tags: tag_storage_management,tag_data_storage,tag_cli,tag_get_started,tag_SANtricity,
       tag_solution
     class: active
@@ -54,9 +54,9 @@ product-family:
     url: https://docs.netapp.com/us-en/e-series/web-services-proxy/index.html
     summary: RESTful API를 사용하여 신규 및 기존 E-Series 스토리지 시스템에 워크플로우를 구축하고 자동화할 수 있습니다.
     tags: all, tag_storage_management, tag_SANtricity
-  - title: NetApp 기반 BeeGFS
-    icon: "./media/BeeGFS-ESeries.png"
-    url: https://docs.netapp.com/us-en/beegfs/index.html
-    summary: BeeGFS 병렬 파일 시스템과 NetApp EF600 스토리지 시스템이 결합된 고가용성 AI 및 HPC 스토리지 인프라에
-      BeeGFS를 사용합니다.
+  - title: E-Series 스토리지를 지원하는 NetApp 기반 BeeGFS
+    icon: "./media/api.png"
+    url: https://review.docs.netapp.com/us-en/beegfs_admin-jgallagher/index.html
+    summary: NetApp 기반의 BeeGFS를 사용하여 BeeGFS 병렬 파일 시스템과 NetApp EF600 스토리지 시스템이 결합된
+      고가용성 인프라를 구축 및 구축할 수 있습니다.
     tags: all, tag_solution
