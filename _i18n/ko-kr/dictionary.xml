@@ -14,7 +14,6 @@
   <block id="cc1ba14f8dc9bd7ba20e2aa654cde10b" category="inline-link">E-Series/EF-Series SANtricity OS에 대한 알림</block>
   <block id="2dae7f81af3097152530b0bc519d7eb1" category="paragraph"><block ref="2dae7f81af3097152530b0bc519d7eb1" category="inline-link-rx"></block></block>
   <block id="382db393e370bfa3a27169d580a3161c" category="summary">NetApp E-Series 제품군은 단순하고 관리가 쉬우며 엔터프라이즈급 안정성을 갖춘 빠른 블록 스토리지가 필요한 고대역폭 애플리케이션을 위한 스토리지 및 애플리케이션 데이터 관리 서비스를 제공합니다.</block>
-  <block id="dc1480e3f0580dddb0eb15f3b1bd5d52" category="doc">E-Series 스토리지 시스템 제품군 소개</block>
   <block id="60adc38a80ac6ff80c4e7414ed3a9242" category="paragraph">NetApp E-Series 스토리지 제품군은 유연하고 비용 효율적인 클라우드 백업 및 복구 기능을 제공하며, 엔터프라이즈급 안정성과 더불어 단순하고 관리가 쉬우며 빠른 블록 스토리지가 필요한 전용 고대역폭 애플리케이션에 맞게 설계되었습니다.</block>
   <block id="7198a11b2d2b782e219fa68720bb5d6c" category="section-title">E-Series 플랫폼</block>
   <block id="f13bfd89800bb7dd61e5dae9b1a91f8a" category="paragraph">E-Series 스토리지 시스템은 2U 또는 4U 폼 팩터에서 여러 드라이브 유형을 처리할 수 있는 애플리케이션 인식 데이터 관리 툴을 사용합니다. 스토리지 시스템을 여러 인터페이스 유형 및 다양한 호스트 운영 체제에서 SAN에 연결할 수 있습니다.</block>
@@ -90,7 +89,6 @@
   <block id="d2d722049178be8cd1890b932c825ed5" category="paragraph"><block ref="3e0982541f18ddacaca57ec40835ab89" category="inline-link-rx"></block>.</block>
   <block id="2a9dbfa4b74c53d7304fc8b79a1874d3" category="sidebar">해결하세요</block>
   <block id="e4136d596bf67f3afb7cfd2326f4b522" category="sidebar">E-Series에 대해 알아보십시오</block>
-  <block id="3a1266b54b8b88dbb50662ab4166c05f" category="sidebar">모든 문서</block>
   <block id="28e8b3e83af233fe7085ba954fc6fd36" category="sidebar">E-Series 스토리지를 지원하는 NetApp 기반 BeeGFS</block>
   <block id="c6ed86424e776eb55d39d911ea6a9183" category="sidebar">NetApp 기반의 BeeGFS를 사용하여 BeeGFS 병렬 파일 시스템과 NetApp EF600 스토리지 시스템이 결합된 고가용성 인프라를 구축 및 구축할 수 있습니다.</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
@@ -101,4 +99,6 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="a458525d37b04d3510554badd27d0cfa" category="doc">E-Series 제품군에 대해 자세히 알아보십시오</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">모두</block>
 </blocks>
