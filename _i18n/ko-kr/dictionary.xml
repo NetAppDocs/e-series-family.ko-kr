@@ -64,7 +64,6 @@
   <block id="7be46423c2b30b6cfa401cb45a35ad2b" category="sidebar">웹 서비스 API</block>
   <block id="c47070155f88602aa042524cd2cc4603" category="sidebar">RESTful API를 사용하여 신규 및 기존 E-Series 스토리지 시스템에 워크플로우를 구축하고 자동화할 수 있습니다.</block>
   <block id="d4dfeb323e446c2b90b20dc9b54c4405" category="paragraph">빅데이터 분석 및 데이터베이스와 같은 최고 수준의 성능이 필요한 워크로드를 위해 특별히 설계되었습니다.</block>
-  <block id="1332a08a067b95d420f0d24ab5e89e06" category="paragraph"><block ref="446fc659dbe52df02322454be4d2a16c" category="inline-link-rx"></block>.</block>
   <block id="2776610d741332584403d7c72fe2e643" category="paragraph">엔터프라이즈급 안정성을 갖춘 고성능 및 데이터 집약적 대역폭 애플리케이션을 위해 제작되었습니다.</block>
   <block id="7db60f58ccdd2a63d8b656bf8b24c250" category="paragraph"><block ref="1923aee696a50b6ab348b91b901a3f8d" category="inline-link-rx"></block>.</block>
   <block id="f2c73fc6464033fbbc41882f301e648a" category="paragraph">전용 앱을 위한 혼합 워크로드 성능과 안정성이 필요한 소규모 기업 및 원격 사무실에 적합합니다.</block>
@@ -107,4 +106,5 @@
   <block id="dad10ed4eb5e6725a440492844234f9e" category="paragraph"><block ref="60e84386b57028b7db67ae48e7a7265e" category="inline-link-rx"></block>..</block>
   <block id="d696eb7cc7c085860c6470600fcae988" category="inline-link">E4000 데이터시트를 읽어 보십시오</block>
   <block id="57cc76780bfa9c93468f080b877fc65b" category="paragraph"><block ref="b89ee95d84bff0c0eb605a0d520b1934" category="inline-link-rx"></block>..</block>
+  <block id="7ea5b3d26ad1848cda1d8a40b9bf4ca8" category="paragraph"><block ref="8920db8ec7a24dd4a096be51daa88b36" category="inline-link-rx"></block>.</block>
 </blocks>
